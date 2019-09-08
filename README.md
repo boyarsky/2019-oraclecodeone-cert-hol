@@ -8,4 +8,4 @@
 | N/A | 26 | Lab #1 | 20 minutes |
 | Scott | 27-35 | Small Features + Questions | 20 minutes
 | Jeanne | 41-57 | Vars/Streams + Questions | 20 minutes |
-| N/A | 67 | Lab #2 | 20 minutes |
+| N/A | 67 | Lab #2  + slack | 30 minutes |
