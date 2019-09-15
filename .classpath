@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="lab-solutions/modules-lab-step-1/sessions/src"/>
+	<classpathentry kind="src" path="lab-solutions/modules-lab-step-2/attendees/src"/>
+	<classpathentry kind="src" path="lab-solutions/modules-lab-step-2/sessions/src"/>
+	<classpathentry kind="src" path="lab-solutions/modules-lab-step-3/attendees/src"/>
+	<classpathentry kind="src" path="lab-solutions/modules-lab-step-3/sessions/src"/>
+	<classpathentry kind="src" path="lab-solutions/modules-lab-step-4-bonus/attendees/src"/>
+	<classpathentry kind="src" path="lab-solutions/modules-lab-step-4-bonus/sessions/src"/>
+	<classpathentry kind="src" path="lab-solutions/modules-lab-step-5-bonus/attendees/src"/>
+	<classpathentry kind="src" path="lab-solutions/modules-lab-step-5-bonus/beer/src"/>
+	<classpathentry kind="src" path="lab-solutions/modules-lab-step-5-bonus/sessions/src"/>
+	<classpathentry kind="src" path="lab-solutions/new-features-lab-step-1"/>
+	<classpathentry kind="src" path="lab-solutions/new-features-lab-step-2"/>
+	<classpathentry kind="src" path="lab-solutions/new-features-lab-step-3"/>
+	<classpathentry kind="src" path="lab-solutions/new-features-lab-step-4"/>
+	<classpathentry kind="src" path="lab-solutions/new-features-lab-step-5-bonus"/>
+	<classpathentry kind="output" path="lab-solutions/modules-lab-step-4-bonus/sessions/classes"/>
+</classpath>
